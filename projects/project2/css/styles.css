@@ -1,0 +1,272 @@
+body {
+	background-width:1400px;  
+	background-height:5000px; 
+
+}
+
+#container {
+	width: 1400px;  
+	height:5000px; 
+	position:absolute;
+ 	
+}
+
+
+
+.rights {
+	width: 0;
+	height: 0;
+	border-bottom: 150px solid red;
+	border-right: 150px solid transparent;
+	float:left;
+	margin-left:40px;
+	margin-top:20px;
+	margin-bottom:50px;
+	opacity:.9;
+	
+}
+
+ .rights:hover {
+   opacity:0;
+   color:white;
+
+      }
+
+	
+
+.shape {
+	width: 0;
+	height: 0;
+	border-bottom: 150px solid red;
+	border-left: 150px solid transparent;
+	float:left;
+	margin-left:40px;
+	margin-top:20px;
+	margin-bottom:50px;
+	opacity:.5;
+}	
+
+.shape:hover {
+   opacity:0;
+   color:white;
+
+      }
+
+.left {
+	width: 0;
+	height: 0;
+	border-bottom: 150px solid red;
+	border-right: 150px solid transparent;
+	float:left;
+	margin-left:40px;
+	margin-top:20px;
+	margin-bottom:50px;
+	opacity:.4;
+
+}
+
+.left:hover {
+   opacity:0;
+   color:white;
+
+      }
+
+#apple {
+	max-width:1400px;  
+	height:5000px; 
+	position: absolute;
+	
+	
+}
+
+.dude {
+	width: 0;
+	height: 0;
+	border-bottom: 400px solid white;
+	border-right: 400px solid transparent;
+	margin-left:200px;
+	margin-top:150px;
+	margin:bottom:500px;
+	margin-right:1000px;
+	float:left;
+
+	
+}
+
+.bro {
+	width: 0;
+	height: 0;
+	border-bottom: 300px solid white;
+	border-left: 300px solid transparent;
+	float:left;
+	margin-left:700px;
+	margin-top:20px;
+	float:left;
+	z-index: 10;
+	opacity: .9;
+
+}
+
+.bro:hover {
+   opacity:0;
+   color:white;
+
+      }
+
+
+
+}
+
+.ugh { 
+	
+	width: 1400px;  
+	height:5000px; 
+	position:absolute;
+
+	
+	
+}
+
+.box { 
+	width:150px;
+	height:150px;
+	margin-left:420px;
+	margin-top:50px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+.box1 { 
+	width:150px;
+	height:150px;
+	margin-left:800px;
+	margin-top:250px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+
+.box2 { 
+	width:150px;
+	height:150px;
+	margin-left:230px;
+	margin-top:1330px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+
+
+.box3 { 
+	width:150px;
+	height:150px;
+	margin-left:420px;
+	margin-top:2220px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+
+.box4 { 
+	width:150px;
+	height:150px;
+	margin-left:620px;
+	margin-top:3560px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+.box5 { 
+	width:150px;
+	height:150px;
+	margin-left:800px;
+	margin-top:4030px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+
+.box6 { 
+	width:150px;
+	height:150px;
+	margin-left:420px;
+	margin-top:5050px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+
+.box7 { 
+	width:150px;
+	height:150px;
+	margin-left:800px;
+	margin-top:6200px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+
+.box8 { 
+	width:150px;
+	height:150px;
+	margin-left:420px;
+	margin-top:6850px;
+	margin-bottom:50px;
+	position:absolute;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;
+	
+}
+
+/*.box { 
+	width:150px;
+	height:150px;
+	margin-left:40px;
+	margin-top:50px;
+	margin-bottom:50px;
+	float:left;
+	color:white;
+	font-family: Helvetica;
+	font-size:20pt;*/
+	
+
+}
+
+
+
+
+
+}
+
+
+dude
+
+photoshop
+filter>image>offset (makes pattern)
+
+

@@ -1,0 +1,29 @@
+body {
+	background-color: plum;
+	font-family: 'Questrial', sans-serif;
+	color: white;
+	font-size: 30px;
+	
+
+
+}
+
+h1 {
+	font-family: 'Josefin Slab', serif;
+	text-align: center;
+	font-size:100px;
+	line-height: 1.5em;
+	
+}
+
+h5 {
+	font-style: italic;
+	letter-spacing: 10px;
+	text-decoration: line-through;
+	color: black;
+}
+
+	p {
+		letter-spacing:5px;
+	
+	}

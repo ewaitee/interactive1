@@ -1,0 +1,44 @@
+.container {
+	width:512px;
+	height:564px;
+
+}
+
+.one {
+	width:560px;
+	height: 282px;
+	
+}
+
+.tall {
+	height:285px;
+	width:75px;
+	background-color:red;
+	float:left;
+	margin-right:5px;
+	margin-top:5px;
+}
+
+.two {
+	height:285px;
+	width:370px;
+	float:left;
+}
+
+.rec {
+	height:95px;
+	width:365px;
+	background-color: red;
+	float:left;
+	margin-top:5px;
+}
+
+.square {
+	height:185px;
+	width: 180px;
+	background-color:red;
+	float:left;
+	margin-right:5px;
+	margin-top:5px;
+}
+

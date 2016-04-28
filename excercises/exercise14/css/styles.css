@@ -1,0 +1,30 @@
+body {padding:50px;}
+
+div {
+  cursor:move;
+  border:1px solid black;
+  margin:2px;
+  float:left;
+}
+
+.draggable {
+  background-color:yellow;
+}
+
+#red{
+	  width:70px;
+  height:70px;
+  background-color:lavender;
+}
+
+#blue{
+	  width:150px;
+  height:180px;
+  background-color:orange;
+}
+
+#green{
+	  width:100px;
+  height:100px;
+  background-color:pink;
+}

@@ -1,0 +1,47 @@
+.container {
+	width:485px;
+	height:1,200px;
+}
+
+.header {
+	width:485px;
+	height:96px;
+	margin-bottom:64px;
+	float:left;
+	background-color:red;
+	
+}
+
+.one {
+	width:485px;
+	height:295px;
+	margin-bottom:64px;
+
+}
+
+.box {
+	width:385px;
+	height:256px;
+	float:left;
+	background-color:red;
+	
+
+}
+
+.thin {
+	width:385px;
+	height:34px;
+	float:left;
+	background-color:red;
+	margin-top:5px;
+}
+
+.side {
+	width: 95px;
+	height:129px;
+	float:left;
+	background-color:red;
+	margin-left:5px;
+	float:top;
+}
+

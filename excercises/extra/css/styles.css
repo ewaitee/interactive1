@@ -1,0 +1,10 @@
+.drop-me {
+  width: 200px;
+  height:200px;
+  background: #000;
+  transition: all .3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}

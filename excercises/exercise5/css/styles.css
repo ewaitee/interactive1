@@ -1,0 +1,17 @@
+.chess {
+	width: 100px;
+	height: 100px;
+	background-color:red;
+	float: left;
+	margin-right:100px;
+	
+}
+
+.left {
+	width: 100px;
+	height: 100px;
+	background-color:red;
+	float: left;
+	margin-left:100px;
+
+}

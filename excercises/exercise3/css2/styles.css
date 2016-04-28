@@ -1,0 +1,33 @@
+body{
+	background-color: peachpuff;
+}
+
+#container {
+	width: 1200px;
+	height: 700px;
+	font-family: helvetica;
+	background-color: lightsalmon;
+	float: left; 
+	}
+#artist {
+	width: 200px;
+	height: 200px;
+	font-family: helvetica;
+	background-color: plum;
+	float: left;
+	
+}
+
+#sidebar {
+	width:200px;
+	height:200px;
+	background-color: pink;
+	float: left;
+}
+
+#circle {
+	width:200px;
+	height:200px;
+	background-color: white;
+	float: left;
+}

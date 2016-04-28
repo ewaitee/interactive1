@@ -1,0 +1,187 @@
+/*@keyframes fall {
+	0% {
+		top:5px;
+	}
+	50% {
+		top:200px;
+	}
+	100% {
+		top:500px;
+	}
+
+}*/
+
+
+
+
+
+body{
+	background-color:rgb(144,183,194);
+	color:white;
+	font-family:helvetica;
+	font-size:30px;
+}
+
+.ha {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+  top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+
+
+
+.ua {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+
+.ma {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+
+
+.pa {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+.ta {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+.ya {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+#space{
+	
+	float:left;
+	margin:10px;
+	
+}
+
+
+.da {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+
+.ub {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+
+.mb {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+
+.pb {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+
+.tb {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}
+
+.yb {
+  width: 30px;
+  height:30px;
+  float:left;
+  margin:5px;
+	top: 5px;
+  transition: all 3s;
+}
+.hovered {
+  position: absolute;
+  bottom:0;
+}

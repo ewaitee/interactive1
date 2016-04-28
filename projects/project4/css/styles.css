@@ -1,0 +1,174 @@
+
+
+
+body{
+	background-color:rgb(144,183,194);
+	color:white;
+	font-family:helvetica;
+	font-size:20px;
+}
+
+
+
+.ha{
+	position: relative;
+	transition: all 2s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+	animation-fill-mode: forwards;
+	
+
+}
+
+.ha:hover {
+	top:500px;
+
+
+}
+
+
+#ua{
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+	
+}
+#ua:hover {
+	top: 500px; 
+
+}
+
+#ma{
+	
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+
+}
+#ma:hover {
+	top: 500px; 
+
+}
+
+
+#pa{
+	
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+}
+#pa:hover {
+	top: 500px; 
+
+}
+#ta{
+	
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+}
+#ta:hover {
+	top: 500px; 
+
+}
+#ya{
+	
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px;
+}
+#ya:hover {
+	top: 500px; 
+
+}
+#space{
+	
+	float:left;
+	margin:5px;
+	
+}
+
+
+#da{
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+}
+
+#da:hover {
+	top: 500px; 
+
+}
+
+#ub{
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+}
+
+#ub:hover {
+	top: 500px; 
+}
+
+#mb{
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px;
+}
+
+#mb:hover {
+	top: 1500px; 
+}
+
+#pb{
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+}
+
+#pb:hover {
+	top: 500px; 
+}
+
+#tb{
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+}
+
+#tb:hover {
+	top: 500px; 
+}
+
+#yb{
+	position: relative;
+	transition: all 3s;
+	float:left;
+	margin:3px;
+	top: 3px; 
+}
+
+#yb:hover {
+	top: 500px; 
+}

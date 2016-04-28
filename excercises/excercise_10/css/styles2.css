@@ -1,0 +1,53 @@
+body {
+  background: #27c8f9;
+}
+
+#container {
+  margin: auto;
+  width: 2000px;
+}
+
+.button {
+  background: red;
+  border-radius: 6px;
+  cursor: pointer;
+  height: 100px;
+  width: 100px;
+  line-height: 95px;
+  text-align: center;
+  margin: 20px;
+  transition-property: background;
+  transition-duration: 1s;
+  transition-delay: .2s;
+  transition-timing-function: linear;
+ 
+}
+
+.button:hover {
+  background: #ffcc99;
+  border-radius: 10px;
+  height:50px;
+  width:50px;
+}
+
+.circle {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  background: #ffcc99;
+  cursor: pointer;
+  transition-property: background;
+  transition-duration: 2s;
+  transition-delay: .4s;
+  transition-timing-function: linear;
+}
+
+.circle:hover {
+  background: black;
+  border-radius: 10px;
+}
+
+#spacer {
+  height: 200px;
+  
+}

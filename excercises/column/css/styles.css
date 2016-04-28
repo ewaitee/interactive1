@@ -1,0 +1,41 @@
+
+.container{
+	width:497px;
+	height:533px;
+}
+
+.one {
+	width:497px;
+	height:95px;
+
+}
+
+.rec {
+	width:497px;
+	height:63px;
+	background-color:red;
+	float:left;
+}
+
+.slim {
+	width:497px;
+	height:18px;
+	background-color:red;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.two{
+	width:497px;
+	height:371px;
+}
+
+.column {
+	width:160px;
+	height:453px;
+	background-color:red;
+	float:left;
+	margin-right:5px;
+	margin-bottom:5px;
+}
